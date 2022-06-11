@@ -1,16 +1,30 @@
-### Hi there 👋
+## Hi there 👋, I'm Bo Seong Kim
+### Blockchain Engineer
 
-<!--
-**gunb0s/gunb0s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
 
-Here are some ideas to get you started:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gunb0s&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gunb0s&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</p>
+
+
+## My tech stack
+<p>
+  <a> 
+    <img alt="NodeJs" src="https://img.shields.io/badge/-NodeJS-green?logo=node.js&Color=white">
+  </a> 
+  &emsp;
+  <a> 
+     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
+  </a>
+  &emsp;
+</p>
+
+## Contact me
+<p>
+  <a href="https://www.linkedin.com/in/bo-seong-kim-3a35b7232/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="BoSeong Kim" height="30" width="40" /></a>
+</p>
