@@ -124,4 +124,4 @@
 
 ## Contact me
 
-<a href="https://medium.com/@bys20411"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a> [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:bys20411@gmail.com)](mailto:bys20411@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+<a href="https://medium.com/@bys20411"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a> [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:bys20411@gmail.com)](mailto:bys20411@gmail.com?subject=[GitHub]%20Hello)
