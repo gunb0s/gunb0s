@@ -12,7 +12,7 @@
 
 </p>
 
-## My tech stack
+<!-- ## My tech stack
 
 <p>
   <a>
@@ -120,7 +120,7 @@
   </a>
   &emsp;
   
-</p>
+</p> -->
 
 ## Contact me
 
